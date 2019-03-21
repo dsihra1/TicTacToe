@@ -16,8 +16,6 @@ using System.Windows.Shapes;
 namespace TicTacToe_FinalProject
 {
 
-    // This is not my Code. I followed a WPF tutorial to create a Tic Tac Toe Game 
-    //https://www.youtube.com/watch?v=mnTyiUAHuVk 
 
     /// <summary>
     /// Interaction logic for MainWindow.xaml
